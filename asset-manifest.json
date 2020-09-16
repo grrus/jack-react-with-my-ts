@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jack-react-with-my-ts/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jack-react-with-my-ts/static/js/main.a56135e4.chunk.js",
+    "main.js.map": "/jack-react-with-my-ts/static/js/main.a56135e4.chunk.js.map",
+    "runtime-main.js": "/jack-react-with-my-ts/static/js/runtime-main.cf73fe56.js",
+    "runtime-main.js.map": "/jack-react-with-my-ts/static/js/runtime-main.cf73fe56.js.map",
+    "static/js/2.6afba834.chunk.js": "/jack-react-with-my-ts/static/js/2.6afba834.chunk.js",
+    "static/js/2.6afba834.chunk.js.map": "/jack-react-with-my-ts/static/js/2.6afba834.chunk.js.map",
+    "index.html": "/jack-react-with-my-ts/index.html",
+    "precache-manifest.3b23b60707760ee5eb372429731bf999.js": "/jack-react-with-my-ts/precache-manifest.3b23b60707760ee5eb372429731bf999.js",
+    "service-worker.js": "/jack-react-with-my-ts/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jack-react-with-my-ts/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6afba834.chunk.js.LICENSE.txt": "/jack-react-with-my-ts/static/js/2.6afba834.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jack-react-with-my-ts/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf73fe56.js",
+    "static/js/2.6afba834.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a56135e4.chunk.js"
+  ]
+}
